@@ -21,3 +21,6 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 The Output of the code will look like this:
 
 ![Screenshot 2022-10-25 232731](https://user-images.githubusercontent.com/83284687/197847838-7df25ddb-0b0e-4538-96ed-6120fbe63950.png)
+
+![Screenshot 2022-10-25 232826](https://user-images.githubusercontent.com/83284687/197847926-9d66ea03-fbd5-484d-9528-3143662848ce.png)
+
